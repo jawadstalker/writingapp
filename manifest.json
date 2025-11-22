@@ -1,6 +1,6 @@
 {
   "background_color": "#da4a4a",
-  "description": "this app is perfect for wrriters",
+  "description": "this app is perfect for writers",
   "dir": "ltr",
   "display": "standalone",
   "name": "writingapp-blue.vercel",
@@ -13,16 +13,34 @@
     {
       "src": "https://writingapp-blue.vercel.app/assets/logoo-BA3Ty0OA.png",
       "type": "image/png",
-      "sizes": "16x16",
-      "isSquare": true,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 16,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "sizes": "16x16"
     }
   ],
-  "id": "Writing App"
+  "id": "Writing App",
+  "prefer_related_applications": true,
+  "categories": [
+    "books",
+    "education",
+    "personalization"
+  ],
+  "edge_side_panel": {
+    "preferred_width": 0
+  },
+  "screenshots": [
+    {
+      "src": "new3",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "new2",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "new1",
+      "sizes": "640x480",
+      "type": "image/png"
+    }
+  ]
 }
