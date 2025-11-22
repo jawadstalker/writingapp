@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Write It</string>
+    <string name="title_activity_main">Write It</string>
+    <string name="package_name">com.SoftSword.app</string>
+    <string name="custom_url_scheme">com.SoftSword.app</string>
+</resources>
