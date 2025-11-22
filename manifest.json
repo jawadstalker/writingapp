@@ -1,0 +1,28 @@
+{
+  "background_color": "#da4a4a",
+  "description": "this app is perfect for wrriters",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "writingapp-blue.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Writing App",
+  "start_url": "/",
+  "theme_color": "#787878",
+  "icons": [
+    {
+      "src": "https://writingapp-blue.vercel.app/assets/logoo-BA3Ty0OA.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 16,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "Writing App"
+}
