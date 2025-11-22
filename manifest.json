@@ -16,7 +16,7 @@
 
   "icons": [
     {
-      "src": "logoo.png",
+      "src": "/logoo.png",
       "sizes": "1024x1024",
       "type": "png"
     }
@@ -36,17 +36,17 @@
 
   "screenshots": [
     {
-      "src": "new3.png",
+      "src": "/new3.png",
       "sizes": "640x480",
       "type": "png"
     },
     {
-      "src": "new2.png",
+      "src": "/new2.png",
       "sizes": "640x480",
       "type": "png"
     },
     {
-      "src": "new1.png",
+      "src": "/new1.png",
       "sizes": "640x480",
       "type": "png"
     }
