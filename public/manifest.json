@@ -1,1 +1,55 @@
 
+{
+  "lang": "en-US",
+  "id": "/",
+  "name": "Writing App",
+  "short_name": "WritingApp",
+  "description": "This app is perfect for writers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "dir": "ltr",
+
+  "theme_color": "#787878",
+  "background_color": "#da4a4a",
+
+  "icons": [
+    {
+      "src": "/logoo.png",
+      "sizes": "1024x1024",
+      "type": "png"
+    }
+  ],
+
+  "categories": [
+    "books",
+    "education",
+    "personalization"
+  ],
+
+  "prefer_related_applications": false,
+
+  "edge_side_panel": {
+    "preferred_width": 0
+  },
+
+  "screenshots": [
+    {
+      "src": "/new3.png",
+      "sizes": "549x909",
+      "type": "png"
+    },
+    {
+      "src": "/new2.png",
+      "sizes": "550x919",
+      "type": "png"
+    },
+    {
+      "src": "/new1.png",
+      "sizes": "547x900",
+      "type": "png"
+    }
+  ]
+}
