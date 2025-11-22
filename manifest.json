@@ -28,17 +28,17 @@
   },
   "screenshots": [
     {
-      "src": "new3",
+      "src": "new3.png",
       "sizes": "640x480",
       "type": "image/png"
     },
     {
-      "src": "new2",
+      "src": "new2.png",
       "sizes": "640x480",
       "type": "image/png"
     },
     {
-      "src": "new1",
+      "src": "new1.png",
       "sizes": "640x480",
       "type": "image/png"
     }
