@@ -37,17 +37,17 @@
   "screenshots": [
     {
       "src": "/new3.png",
-      "sizes": "640x480",
+      "sizes": "549x909",
       "type": "png"
     },
     {
       "src": "/new2.png",
-      "sizes": "640x480",
+      "sizes": "550x919",
       "type": "png"
     },
     {
       "src": "/new1.png",
-      "sizes": "640x480",
+      "sizes": "547x900",
       "type": "png"
     }
   ]
