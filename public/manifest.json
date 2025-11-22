@@ -15,13 +15,14 @@
   "theme_color": "#787878",
   "background_color": "#da4a4a",
 
-  "icons": [
-    {
-      "src": "/logoo.png",
-      "sizes": "1024x1024",
-      "type": "png"
-    }
-  ],
+ "icons": [
+  {
+      "src": "https://writingapp-blue.vercel.app/public/logoo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+  }
+],
 
   "categories": [
     "books",
